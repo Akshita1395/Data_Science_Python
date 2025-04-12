@@ -12,9 +12,9 @@ Welcome to the GitHub repo for our project **"Exploratory Data Analysis of Supre
  📁 Project Structure
 
 ```
-├── justice.csv               # Main dataset of Supreme Court cases
-├── supreme_court_EDA.ipynb   # Jupyter Notebook with full analysis
-├── charts/                   # Folder for saved plots and graphs
+├── python_justice.csv               # Main dataset of Supreme Court cases
+├── python_implementation.ipynb   # Jupyter Notebook with full analysis
+├── Python_report              # Report of the whole project
 ├── README.md                 # This file
 ```
 
